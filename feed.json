@@ -1,0 +1,58 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Christian Haintz",
+	"icon": "https://micro.blog/ceelian/avatar.jpg",
+	"home_page_url": "https://ceelian.net/",
+	"feed_url": "https://ceelian.net/feed.json",
+	"items": [
+		
+			{
+				"id": "http://ceelian.micro.blog/2024/05/22/if-you-are.html",
+				
+				"content_html": "<p>If you are in a business related to IT or Software Development and have not yet considered adapting AI for your daily work, watch this keynote from Satya Nadella, Microsoft to get a glimpse of the advantages your competitors will gain by adopting AI. <a href=\"https://youtu.be/8OviTSFqucI?si=ArYne9-vGpJ6tMf6\">youtu.be/8OviTSFqu&hellip;</a></p>\n",
+				"content_text": "If you are in a business related to IT or Software Development and have not yet considered adapting AI for your daily work, watch this keynote from Satya Nadella, Microsoft to get a glimpse of the advantages your competitors will gain by adopting AI. [youtu.be/8OviTSFqu...](https://youtu.be/8OviTSFqucI?si=ArYne9-vGpJ6tMf6)\n",
+				"date_published": "2024-05-22T10:53:48+02:00",
+				"url": "https://ceelian.net/2024/05/22/if-you-are.html"
+			},
+			{
+				"id": "http://ceelian.micro.blog/2024/05/18/if-you-wanna.html",
+				
+				"content_html": "<p>If you wanna get in touch with other software developers and see what new approaches evolve, I can recommend the WeAreDevelopers World Congress, happening in two months 17th-19th of July in Berlin, Germany. See you there. #webdevelopment #SaaS <a href=\"https://www.wearedevelopers.com/world-congress\">www.wearedevelopers.com/world-con&hellip;</a></p>\n",
+				"content_text": "If you wanna get in touch with other software developers and see what new approaches evolve, I can recommend the WeAreDevelopers World Congress, happening in two months 17th-19th of July in Berlin, Germany. See you there. #webdevelopment #SaaS [www.wearedevelopers.com/world-con...](https://www.wearedevelopers.com/world-congress)\n",
+				"date_published": "2024-05-18T09:47:52+02:00",
+				"url": "https://ceelian.net/2024/05/18/if-you-wanna.html"
+			},
+			{
+				"id": "http://ceelian.micro.blog/2024/05/14/twitterx-crosspost-from.html",
+				
+				"content_html": "<p>Twitter/X crosspost from micro.blog - try #3</p>\n",
+				"content_text": "Twitter/X crosspost from micro.blog - try #3\n",
+				"date_published": "2024-05-14T22:34:59+02:00",
+				"url": "https://ceelian.net/2024/05/14/twitterx-crosspost-from.html"
+			},
+			{
+				"id": "http://ceelian.micro.blog/2024/05/14/well-twitterx-crossposting.html",
+				
+				"content_html": "<p>Well, Twitter/X crossposting with IFTTT based on <a href=\"https://help.micro.blog/t/cross-posting-with-the-ifttt-service/86\">help.micro.blog/t/cross-p&hellip;</a> not working yet. Try #2</p>\n",
+				"content_text": "Well, Twitter/X crossposting with IFTTT based on [help.micro.blog/t/cross-p...](https://help.micro.blog/t/cross-posting-with-the-ifttt-service/86) not working yet. Try #2\n",
+				"date_published": "2024-05-14T22:29:25+02:00",
+				"url": "https://ceelian.net/2024/05/14/well-twitterx-crossposting.html"
+			},
+			{
+				"id": "http://ceelian.micro.blog/2024/05/14/if-everything-went.html",
+				
+				"content_html": "<p>If everything went right this message was automatically posted to Bluesky, Mastodon, Twitter/X and LinkedIn. Thx to micro.blog and a little IFTTT magic. As this service fragmentation is not going away we have to deal with it somehow.</p>\n",
+				"content_text": "If everything went right this message was automatically posted to Bluesky, Mastodon, Twitter/X and LinkedIn. Thx to micro.blog and a little IFTTT magic. As this service fragmentation is not going away we have to deal with it somehow.\n",
+				"date_published": "2024-05-14T22:12:04+02:00",
+				"url": "https://ceelian.net/2024/05/14/if-everything-went.html"
+			},
+			{
+				"id": "http://ceelian.micro.blog/2024/05/11/finally-hello-world.html",
+				
+				"content_html": "<p>Finally, hello world from my own account :-) Thx <a href=\"https://micro.blog/help\">@help</a> for resolving the issue so fast. Looking forward to my new home for distributing to my social media channels.</p>\n",
+				"content_text": "Finally, hello world from my own account :-) Thx [@help](https://micro.blog/help) for resolving the issue so fast. Looking forward to my new home for distributing to my social media channels.\n",
+				"date_published": "2024-05-11T09:45:16+02:00",
+				"url": "https://ceelian.net/2024/05/11/finally-hello-world.html"
+			}
+	]
+}
