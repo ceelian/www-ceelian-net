@@ -7,10 +7,34 @@
 	"items": [
 		
 			{
+				"id": "http://ceelian.micro.blog/2024/05/29/just-because-your.html",
+				
+				"content_html": "<p>Just because your web app has a high available k8s infrastructure doesn&rsquo;t mean it can&rsquo;t easily become unavailable due to small mistakes. See here: <a href=\"https://dev.to/glasskube/kubernetes-fail-compilation-but-they-keep-getting-worse-12n2\">dev.to/glasskube&hellip;</a> That&rsquo;s one reason why conducting a post-mortem analysis is crucial.</p>\n",
+				"content_text": "Just because your web app has a high available k8s infrastructure doesn't mean it can't easily become unavailable due to small mistakes. See here: [dev.to/glasskube...](https://dev.to/glasskube/kubernetes-fail-compilation-but-they-keep-getting-worse-12n2) That's one reason why conducting a post-mortem analysis is crucial.\n",
+				"date_published": "2024-05-29T12:56:45+02:00",
+				"url": "https://ceelian.net/2024/05/29/just-because-your.html"
+			},
+			{
+				"id": "http://ceelian.micro.blog/2024/05/24/sometimes-it-just.html",
+				
+				"content_html": "<p>Sometimes it just takes a little time. Simplified our config and secrets mgmt (outside if k8s) after reflecting the last 10 years with it to just ~10 lines of simple bash script, no ext dependencies and easy integration of hcp vault. Interested in it? Then I may write a short blog post about it.</p>\n",
+				"content_text": "Sometimes it just takes a little time. Simplified our config and secrets mgmt (outside if k8s) after reflecting the last 10 years with it to just ~10 lines of simple bash script, no ext dependencies and easy integration of hcp vault. Interested in it? Then I may write a short blog post about it. \n",
+				"date_published": "2024-05-24T08:55:34+02:00",
+				"url": "https://ceelian.net/2024/05/24/sometimes-it-just.html"
+			},
+			{
+				"id": "http://ceelian.micro.blog/2024/05/23/wohooo-angular-is.html",
+				
+				"content_html": "<p>🥳 Wohooo Angular 18 is now available. #webdev <a href=\"https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe\">blog.angular.dev/angular-v&hellip;</a></p>\n",
+				"content_text": "🥳 Wohooo Angular 18 is now available. #webdev [blog.angular.dev/angular-v...](https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe)\n",
+				"date_published": "2024-05-23T08:46:35+02:00",
+				"url": "https://ceelian.net/2024/05/23/wohooo-angular-is.html"
+			},
+			{
 				"id": "http://ceelian.micro.blog/2024/05/22/if-you-are.html",
 				
-				"content_html": "<p>If you are in a business related to IT or Software Development and have not yet considered adapting AI for your daily work, watch this keynote from Satya Nadella, Microsoft to get a glimpse of the advantages your competitors will gain by adopting AI. <a href=\"https://youtu.be/8OviTSFqucI?si=ArYne9-vGpJ6tMf6\">youtu.be/8OviTSFqu&hellip;</a></p>\n",
-				"content_text": "If you are in a business related to IT or Software Development and have not yet considered adapting AI for your daily work, watch this keynote from Satya Nadella, Microsoft to get a glimpse of the advantages your competitors will gain by adopting AI. [youtu.be/8OviTSFqu...](https://youtu.be/8OviTSFqucI?si=ArYne9-vGpJ6tMf6)\n",
+				"content_html": "<p>If you are in a business related to IT or Software Development and have not yet considered adopting AI for your daily work, watch this keynote from Satya Nadella, Microsoft to get a glimpse of the advantages your competitors will gain by adopting AI. <a href=\"https://youtu.be/8OviTSFqucI?si=ArYne9-vGpJ6tMf6\">youtu.be/8OviTSFqu&hellip;</a></p>\n",
+				"content_text": "If you are in a business related to IT or Software Development and have not yet considered adopting AI for your daily work, watch this keynote from Satya Nadella, Microsoft to get a glimpse of the advantages your competitors will gain by adopting AI. [youtu.be/8OviTSFqu...](https://youtu.be/8OviTSFqucI?si=ArYne9-vGpJ6tMf6)\n",
 				"date_published": "2024-05-22T10:53:48+02:00",
 				"url": "https://ceelian.net/2024/05/22/if-you-are.html"
 			},
