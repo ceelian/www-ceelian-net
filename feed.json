@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://ceelian.micro.blog/2024/06/10/today-is-conference.html",
+				
+				"content_html": "<p>Today is conference day. Freiräume (Un)conference is happening today and tomorrow in Graz, Austria. It&rsquo;s all about New Work, agile and management. Not a tech-conference but still one of my favorites.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today is conference day. Freiräume (Un)conference is happening today and tomorrow in Graz, Austria. It's all about New Work, agile and management. Not a tech-conference but still one of my favorites.\n\n<img src=\"uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-06-10T10:09:42+02:00",
+				"url": "https://ceelian.net/2024/06/10/today-is-conference.html"
+			},
+			{
 				"id": "http://ceelian.micro.blog/2024/05/29/just-because-your.html",
 				
 				"content_html": "<p>Just because your web app has a high available k8s infrastructure doesn&rsquo;t mean it can&rsquo;t easily become unavailable due to small mistakes. See here: <a href=\"https://dev.to/glasskube/kubernetes-fail-compilation-but-they-keep-getting-worse-12n2\">dev.to/glasskube&hellip;</a> That&rsquo;s one reason why conducting a post-mortem analysis is crucial.</p>\n",
