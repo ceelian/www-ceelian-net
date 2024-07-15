@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://ceelian.micro.blog/2024/07/15/arrived-at-berlin.html",
+				
+				"content_html": "<p>Arrived at Berlin for the WeAreDevelopers World Congress. Looking forward to some inspiring talks and workshops! #webdev #devops #wearedevs</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Arrived at Berlin for the WeAreDevelopers World Congress. Looking forward to some inspiring talks and workshops! #webdev #devops #wearedevs\n\n<img src=\"uploads/2024/dffa563f61.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-07-15T19:42:10+02:00",
+				"url": "https://ceelian.net/2024/07/15/arrived-at-berlin.html"
+			},
+			{
+				"id": "http://ceelian.micro.blog/2024/06/13/if-you-have.html",
+				
+				"content_html": "<p>If you have heard of CSS media queries but have not heard about CSS container queries, read this, this it the way:\n<a href=\"https://css-tricks.com/css-container-queries/\">css-tricks.com/css-conta&hellip;</a></p>\n",
+				"content_text": "If you have heard of CSS media queries but have not heard about CSS container queries, read this, this it the way: \n[css-tricks.com/css-conta...](https://css-tricks.com/css-container-queries/)\n",
+				"date_published": "2024-06-13T18:09:00+02:00",
+				"url": "https://ceelian.net/2024/06/13/if-you-have.html"
+			},
+			{
+				"id": "http://ceelian.micro.blog/2024/06/13/disclaimer-this-is.html",
+				
+				"content_html": "<p>Disclaimer, this is highly subjective but the more I see the challenges developers face with Spring Boot, the more I appreciate Django. I mean I always preferred Django compared to Symfony/Laravel, Pyramid, Node.js and others but Spring boot looks really likes it sucks out the energy from developers. Is this just my impression or does anybody else feel that way?</p>\n",
+				"content_text": "Disclaimer, this is highly subjective but the more I see the challenges developers face with Spring Boot, the more I appreciate Django. I mean I always preferred Django compared to Symfony/Laravel, Pyramid, Node.js and others but Spring boot looks really likes it sucks out the energy from developers. Is this just my impression or does anybody else feel that way?\n",
+				"date_published": "2024-06-13T11:47:45+02:00",
+				"url": "https://ceelian.net/2024/06/13/disclaimer-this-is.html"
+			},
+			{
 				"id": "http://ceelian.micro.blog/2024/06/10/today-is-conference.html",
 				
 				"content_html": "<p>Today is conference day. Freiräume (Un)conference is happening today and tomorrow in Graz, Austria. It&rsquo;s all about New Work, agile and management. Not a tech-conference but still one of my favorites.</p>\n<!-- raw HTML omitted -->\n",
