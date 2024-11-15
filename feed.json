@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://ceelian.micro.blog/2024/11/15/nice-we-got.html",
+				
+				"content_html": "<p>Nice! We got attestation on pypi <a href=\"https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/\">blog.pypi.org/posts/202&hellip;</a></p>\n<p>#softwaresupplychainsecurity</p>\n",
+				"content_text": "Nice! We got attestation on pypi [blog.pypi.org/posts/202...](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/) \n\n#softwaresupplychainsecurity\n",
+				"date_published": "2024-11-15T22:43:30+02:00",
+				"url": "https://ceelian.net/2024/11/15/nice-we-got.html"
+			},
+			{
 				"id": "http://ceelian.micro.blog/2024/10/12/a-major-new.html",
 				
 				"content_html": "<p>A major new version of the most popular project management tool for software development is out. I am really curious about the new features <a href=\"https://www.atlassian.com/blog/announcements/the-new-jira\">www.atlassian.com/blog/anno&hellip;</a> #jira</p>\n",
@@ -50,7 +58,7 @@
 				"id": "http://ceelian.micro.blog/2024/07/18/curious-to-see.html",
 				
 				"content_html": "<p>Curious to see this year&rsquo;s selection of hot topics in software development especially in the area of web development at the WeAreDevelopers world congress. Browsing through the program, I noticed a lot of AI topics—no surprise there—Kubernetes/Cloud Native, Rust, WebAssembly, and more. Let&rsquo;s see :)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Curious to see this year's selection of hot topics in software development especially in the area of web development at the WeAreDevelopers world congress. Browsing through the program, I noticed a lot of AI topics—no surprise there—Kubernetes/Cloud Native, Rust, WebAssembly, and more. Let's see :)\n\n<img src=\"https://ceelian.net/uploads/2024/bfc06ce3dd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Curious to see this year's selection of hot topics in software development especially in the area of web development at the WeAreDevelopers world congress. Browsing through the program, I noticed a lot of AI topics—no surprise there—Kubernetes/Cloud Native, Rust, WebAssembly, and more. Let's see :)\n\n<img src=\"uploads/2024/bfc06ce3dd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-07-18T08:56:11+02:00",
 				"url": "https://ceelian.net/2024/07/18/curious-to-see.html"
 			},
@@ -58,7 +66,7 @@
 				"id": "http://ceelian.micro.blog/2024/07/15/arrived-at-berlin.html",
 				
 				"content_html": "<p>Arrived at Berlin for the WeAreDevelopers World Congress. Looking forward to some inspiring talks and workshops! #webdev #devops #wearedevs</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Arrived at Berlin for the WeAreDevelopers World Congress. Looking forward to some inspiring talks and workshops! #webdev #devops #wearedevs\n\n<img src=\"https://ceelian.net/uploads/2024/dffa563f61.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Arrived at Berlin for the WeAreDevelopers World Congress. Looking forward to some inspiring talks and workshops! #webdev #devops #wearedevs\n\n<img src=\"uploads/2024/dffa563f61.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-15T19:42:10+02:00",
 				"url": "https://ceelian.net/2024/07/15/arrived-at-berlin.html"
 			},
@@ -82,7 +90,7 @@
 				"id": "http://ceelian.micro.blog/2024/06/10/today-is-conference.html",
 				
 				"content_html": "<p>Today is conference day. Freiräume (Un)conference is happening today and tomorrow in Graz, Austria. It&rsquo;s all about New Work, agile and management. Not a tech-conference but still one of my favorites.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today is conference day. Freiräume (Un)conference is happening today and tomorrow in Graz, Austria. It's all about New Work, agile and management. Not a tech-conference but still one of my favorites.\n\n<img src=\"https://ceelian.net/uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Today is conference day. Freiräume (Un)conference is happening today and tomorrow in Graz, Austria. It's all about New Work, agile and management. Not a tech-conference but still one of my favorites.\n\n<img src=\"uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-06-10T10:09:42+02:00",
 				"url": "https://ceelian.net/2024/06/10/today-is-conference.html"
 			},
