@@ -7,11 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://ceelian.micro.blog/2024/12/13/091758.html",
+				
+				"content_html": "<p>Welcome Penelope 🥳 <a href=\"https://kubernetes.io/blog/2024/12/11/kubernetes-v1-32-release/\">kubernetes.io/blog/2024&hellip;</a></p>\n<p>#kubernetes</p>\n",
+				"content_text": "Welcome Penelope 🥳 [kubernetes.io/blog/2024...](https://kubernetes.io/blog/2024/12/11/kubernetes-v1-32-release/)\n\n#kubernetes\n",
+				"date_published": "2024-12-13T09:17:58+01:00",
+				"url": "https://ceelian.net/2024/12/13/091758.html"
+			},
+			{
 				"id": "http://ceelian.micro.blog/2024/11/21/i-was-just.html",
 				
 				"content_html": "<p>I was just wondering - what&rsquo;s the average number of times you&rsquo;ve been hit by bird droppings in a lifetime? Since yesterday, I&rsquo;m already at two and am curious if I should consider myself &ldquo;very lucky&rdquo;.</p>\n",
 				"content_text": "I was just wondering - what's the average number of times you've been hit by bird droppings in a lifetime? Since yesterday, I'm already at two and am curious if I should consider myself \"very lucky\".\n",
-				"date_published": "2024-11-21T08:39:40+02:00",
+				"date_published": "2024-11-21T07:39:40+01:00",
 				"url": "https://ceelian.net/2024/11/21/i-was-just.html"
 			},
 			{
@@ -19,7 +27,7 @@
 				
 				"content_html": "<p>I recently started using passkeys, and I can see the challenges that might prevent broad adoption in the near future. <a href=\"https://www.theregister.com/2024/11/17/passkeys_passwords/\">www.theregister.com/2024/11/1&hellip;</a></p>\n",
 				"content_text": "I recently started using passkeys, and I can see the challenges that might prevent broad adoption in the near future. [www.theregister.com/2024/11/1...](https://www.theregister.com/2024/11/17/passkeys_passwords/)\n",
-				"date_published": "2024-11-17T21:36:42+02:00",
+				"date_published": "2024-11-17T20:36:42+01:00",
 				"url": "https://ceelian.net/2024/11/17/i-recently-started.html"
 			},
 			{
@@ -27,7 +35,7 @@
 				
 				"content_html": "<p>The age-old question: Which IDE should you use? Well, the one you work best with!</p>\n<p>I’m a longtime and happy PyCharm user, but sometimes I look jealously at Visual Studio Code for its devcontainer and Jupyter Notebook support. Then I realize I’d miss some of the bread-and-butter features and workflows that, for me, are still unmatched in PyCharm. Anyway, I found a comparison of some Python IDEs for those who haven’t had the chance to test them all out: <a href=\"https://www.infoworld.com/article/2250631/review-7-python-ides-compared.html\">www.infoworld.com/article/2&hellip;</a></p>\n",
 				"content_text": "The age-old question: Which IDE should you use? Well, the one you work best with!\n\nI’m a longtime and happy PyCharm user, but sometimes I look jealously at Visual Studio Code for its devcontainer and Jupyter Notebook support. Then I realize I’d miss some of the bread-and-butter features and workflows that, for me, are still unmatched in PyCharm. Anyway, I found a comparison of some Python IDEs for those who haven’t had the chance to test them all out: [www.infoworld.com/article/2...](https://www.infoworld.com/article/2250631/review-7-python-ides-compared.html)\n",
-				"date_published": "2024-11-16T07:45:09+02:00",
+				"date_published": "2024-11-16T06:45:09+01:00",
 				"url": "https://ceelian.net/2024/11/16/the-ageold-question.html"
 			},
 			{
@@ -35,7 +43,7 @@
 				
 				"content_html": "<p>Nice! We got attestation on pypi <a href=\"https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/\">blog.pypi.org/posts/202&hellip;</a></p>\n<p>#softwaresupplychainsecurity</p>\n",
 				"content_text": "Nice! We got attestation on pypi [blog.pypi.org/posts/202...](https://blog.pypi.org/posts/2024-11-14-pypi-now-supports-digital-attestations/) \n\n#softwaresupplychainsecurity\n",
-				"date_published": "2024-11-15T22:43:30+02:00",
+				"date_published": "2024-11-15T21:43:30+01:00",
 				"url": "https://ceelian.net/2024/11/15/nice-we-got.html"
 			},
 			{
@@ -43,7 +51,7 @@
 				
 				"content_html": "<p>A major new version of the most popular project management tool for software development is out. I am really curious about the new features <a href=\"https://www.atlassian.com/blog/announcements/the-new-jira\">www.atlassian.com/blog/anno&hellip;</a> #jira</p>\n",
 				"content_text": "A major new version of the most popular project management tool for software development is out. I am really curious about the new features [www.atlassian.com/blog/anno...](https://www.atlassian.com/blog/announcements/the-new-jira) #jira\n",
-				"date_published": "2024-10-12T04:33:18+02:00",
+				"date_published": "2024-10-12T03:33:18+01:00",
 				"url": "https://ceelian.net/2024/10/12/a-major-new.html"
 			},
 			{
@@ -51,15 +59,15 @@
 				
 				"content_html": "<p>Today was election day in Austria, and the online streaming service (#ORFon) of the Austrian public broadcasting agency (#ORF) is #down. If you&rsquo;re curious how such a failure could be prevented, this is exactly what auto-scaling is for—automatically covering seasonal or event-based load peaks.</p>\n",
 				"content_text": "Today was election day in Austria, and the online streaming service (#ORFon) of the Austrian public broadcasting agency (#ORF) is #down. If you're curious how such a failure could be prevented, this is exactly what auto-scaling is for—automatically covering seasonal or event-based load peaks.\n",
-				"date_published": "2024-09-29T20:20:38+02:00",
+				"date_published": "2024-09-29T19:20:38+01:00",
 				"url": "https://ceelian.net/2024/09/29/today-was-election.html"
 			},
 			{
 				"id": "http://ceelian.micro.blog/2024/09/24/a-quick-test.html",
 				
 				"content_html": "<p>A quick test for crossposting from micro.blog to the new LinkedIn RSS feed aggregator. Let&rsquo;s see how this works with an image. Crossposting directly to LinkedIn with images doesn&rsquo;t work as expected.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A quick test for crossposting from micro.blog to the new LinkedIn RSS feed aggregator. Let's see how this works with an image. Crossposting directly to LinkedIn with images doesn't work as expected.\n\n<img src=\"https://ceelian.net/uploads/2024/denys-nevozhai-7nrsvjvalna-unsplash-large.jpeg\" width=\"600\" height=\"449\" alt=\"\">\n",
-				"date_published": "2024-09-24T09:29:00+02:00",
+				"content_text": "A quick test for crossposting from micro.blog to the new LinkedIn RSS feed aggregator. Let's see how this works with an image. Crossposting directly to LinkedIn with images doesn't work as expected.\n\n<img src=\"uploads/2024/denys-nevozhai-7nrsvjvalna-unsplash-large.jpeg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2024-09-24T08:29:00+01:00",
 				"url": "https://ceelian.net/2024/09/24/a-quick-test.html"
 			},
 			{
@@ -67,7 +75,7 @@
 				
 				"content_html": "<p>I am not a native speaker, but the following sentence feels overly complicated: &ldquo;if there is no un-ignored taint&hellip;&rdquo; #readingtechdocsasbedtimestory</p>\n",
 				"content_text": "I am not a native speaker, but the following sentence feels overly complicated: \"if there is no un-ignored taint...\" #readingtechdocsasbedtimestory\n",
-				"date_published": "2024-09-19T22:09:03+02:00",
+				"date_published": "2024-09-19T21:09:03+01:00",
 				"url": "https://ceelian.net/2024/09/19/i-am-not.html"
 			},
 			{
@@ -75,23 +83,23 @@
 				
 				"content_html": "<p>If you are using GitHub, this might be important for your security: <a href=\"https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github\">trufflesecurity.com/blog/anyo&hellip;</a></p>\n",
 				"content_text": "If you are using GitHub, this might be important for your security: [trufflesecurity.com/blog/anyo...](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)\n\n",
-				"date_published": "2024-07-25T13:14:04+02:00",
+				"date_published": "2024-07-25T12:14:04+01:00",
 				"url": "https://ceelian.net/2024/07/25/if-you-are.html"
 			},
 			{
 				"id": "http://ceelian.micro.blog/2024/07/18/curious-to-see.html",
 				
 				"content_html": "<p>Curious to see this year&rsquo;s selection of hot topics in software development especially in the area of web development at the WeAreDevelopers world congress. Browsing through the program, I noticed a lot of AI topics—no surprise there—Kubernetes/Cloud Native, Rust, WebAssembly, and more. Let&rsquo;s see :)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Curious to see this year's selection of hot topics in software development especially in the area of web development at the WeAreDevelopers world congress. Browsing through the program, I noticed a lot of AI topics—no surprise there—Kubernetes/Cloud Native, Rust, WebAssembly, and more. Let's see :)\n\n<img src=\"https://ceelian.net/uploads/2024/bfc06ce3dd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2024-07-18T08:56:11+02:00",
+				"content_text": "Curious to see this year's selection of hot topics in software development especially in the area of web development at the WeAreDevelopers world congress. Browsing through the program, I noticed a lot of AI topics—no surprise there—Kubernetes/Cloud Native, Rust, WebAssembly, and more. Let's see :)\n\n<img src=\"uploads/2024/bfc06ce3dd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-07-18T07:56:11+01:00",
 				"url": "https://ceelian.net/2024/07/18/curious-to-see.html"
 			},
 			{
 				"id": "http://ceelian.micro.blog/2024/07/15/arrived-at-berlin.html",
 				
 				"content_html": "<p>Arrived at Berlin for the WeAreDevelopers World Congress. Looking forward to some inspiring talks and workshops! #webdev #devops #wearedevs</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Arrived at Berlin for the WeAreDevelopers World Congress. Looking forward to some inspiring talks and workshops! #webdev #devops #wearedevs\n\n<img src=\"https://ceelian.net/uploads/2024/dffa563f61.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2024-07-15T19:42:10+02:00",
+				"content_text": "Arrived at Berlin for the WeAreDevelopers World Congress. Looking forward to some inspiring talks and workshops! #webdev #devops #wearedevs\n\n<img src=\"uploads/2024/dffa563f61.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-07-15T18:42:10+01:00",
 				"url": "https://ceelian.net/2024/07/15/arrived-at-berlin.html"
 			},
 			{
@@ -99,7 +107,7 @@
 				
 				"content_html": "<p>If you have heard of CSS media queries but have not heard about CSS container queries, read this, this it the way:\n<a href=\"https://css-tricks.com/css-container-queries/\">css-tricks.com/css-conta&hellip;</a></p>\n",
 				"content_text": "If you have heard of CSS media queries but have not heard about CSS container queries, read this, this it the way: \n[css-tricks.com/css-conta...](https://css-tricks.com/css-container-queries/)\n",
-				"date_published": "2024-06-13T18:09:00+02:00",
+				"date_published": "2024-06-13T17:09:00+01:00",
 				"url": "https://ceelian.net/2024/06/13/if-you-have.html"
 			},
 			{
@@ -107,15 +115,15 @@
 				
 				"content_html": "<p>Disclaimer, this is highly subjective but the more I see the challenges developers face with Spring Boot, the more I appreciate Django. I mean I always preferred Django compared to Symfony/Laravel, Pyramid, Node.js and others but Spring boot looks really likes it sucks out the energy from developers. Is this just my impression or does anybody else feel that way?</p>\n",
 				"content_text": "Disclaimer, this is highly subjective but the more I see the challenges developers face with Spring Boot, the more I appreciate Django. I mean I always preferred Django compared to Symfony/Laravel, Pyramid, Node.js and others but Spring boot looks really likes it sucks out the energy from developers. Is this just my impression or does anybody else feel that way?\n",
-				"date_published": "2024-06-13T11:47:45+02:00",
+				"date_published": "2024-06-13T10:47:45+01:00",
 				"url": "https://ceelian.net/2024/06/13/disclaimer-this-is.html"
 			},
 			{
 				"id": "http://ceelian.micro.blog/2024/06/10/today-is-conference.html",
 				
 				"content_html": "<p>Today is conference day. Freiräume (Un)conference is happening today and tomorrow in Graz, Austria. It&rsquo;s all about New Work, agile and management. Not a tech-conference but still one of my favorites.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today is conference day. Freiräume (Un)conference is happening today and tomorrow in Graz, Austria. It's all about New Work, agile and management. Not a tech-conference but still one of my favorites.\n\n<img src=\"https://ceelian.net/uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2024-06-10T10:09:42+02:00",
+				"content_text": "Today is conference day. Freiräume (Un)conference is happening today and tomorrow in Graz, Austria. It's all about New Work, agile and management. Not a tech-conference but still one of my favorites.\n\n<img src=\"uploads/2024/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-06-10T09:09:42+01:00",
 				"url": "https://ceelian.net/2024/06/10/today-is-conference.html"
 			},
 			{
@@ -123,7 +131,7 @@
 				
 				"content_html": "<p>Just because your web app has a high available k8s infrastructure doesn&rsquo;t mean it can&rsquo;t easily become unavailable due to small mistakes. See here: <a href=\"https://dev.to/glasskube/kubernetes-fail-compilation-but-they-keep-getting-worse-12n2\">dev.to/glasskube&hellip;</a> That&rsquo;s one reason why conducting a post-mortem analysis is crucial.</p>\n",
 				"content_text": "Just because your web app has a high available k8s infrastructure doesn't mean it can't easily become unavailable due to small mistakes. See here: [dev.to/glasskube...](https://dev.to/glasskube/kubernetes-fail-compilation-but-they-keep-getting-worse-12n2) That's one reason why conducting a post-mortem analysis is crucial.\n",
-				"date_published": "2024-05-29T12:56:45+02:00",
+				"date_published": "2024-05-29T11:56:45+01:00",
 				"url": "https://ceelian.net/2024/05/29/just-because-your.html"
 			},
 			{
@@ -131,7 +139,7 @@
 				
 				"content_html": "<p>Sometimes it just takes a little time. Simplified our config and secrets mgmt (outside if k8s) after reflecting the last 10 years with it to just ~10 lines of simple bash script, no ext dependencies and easy integration of hcp vault. Interested in it? Then I may write a short blog post about it.</p>\n",
 				"content_text": "Sometimes it just takes a little time. Simplified our config and secrets mgmt (outside if k8s) after reflecting the last 10 years with it to just ~10 lines of simple bash script, no ext dependencies and easy integration of hcp vault. Interested in it? Then I may write a short blog post about it. \n",
-				"date_published": "2024-05-24T08:55:34+02:00",
+				"date_published": "2024-05-24T07:55:34+01:00",
 				"url": "https://ceelian.net/2024/05/24/sometimes-it-just.html"
 			},
 			{
@@ -139,7 +147,7 @@
 				
 				"content_html": "<p>🥳 Wohooo Angular 18 is now available. #webdev <a href=\"https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe\">blog.angular.dev/angular-v&hellip;</a></p>\n",
 				"content_text": "🥳 Wohooo Angular 18 is now available. #webdev [blog.angular.dev/angular-v...](https://blog.angular.dev/angular-v18-is-now-available-e79d5ac0affe)\n",
-				"date_published": "2024-05-23T08:46:35+02:00",
+				"date_published": "2024-05-23T07:46:35+01:00",
 				"url": "https://ceelian.net/2024/05/23/wohooo-angular-is.html"
 			},
 			{
@@ -147,7 +155,7 @@
 				
 				"content_html": "<p>If you are in a business related to IT or Software Development and have not yet considered adopting AI for your daily work, watch this keynote from Satya Nadella, Microsoft to get a glimpse of the advantages your competitors will gain by adopting AI. <a href=\"https://youtu.be/8OviTSFqucI?si=ArYne9-vGpJ6tMf6\">youtu.be/8OviTSFqu&hellip;</a></p>\n",
 				"content_text": "If you are in a business related to IT or Software Development and have not yet considered adopting AI for your daily work, watch this keynote from Satya Nadella, Microsoft to get a glimpse of the advantages your competitors will gain by adopting AI. [youtu.be/8OviTSFqu...](https://youtu.be/8OviTSFqucI?si=ArYne9-vGpJ6tMf6)\n",
-				"date_published": "2024-05-22T10:53:48+02:00",
+				"date_published": "2024-05-22T09:53:48+01:00",
 				"url": "https://ceelian.net/2024/05/22/if-you-are.html"
 			},
 			{
@@ -155,7 +163,7 @@
 				
 				"content_html": "<p>If you wanna get in touch with other software developers and see what new approaches evolve, I can recommend the WeAreDevelopers World Congress, happening in two months 17th-19th of July in Berlin, Germany. See you there. #webdevelopment #SaaS <a href=\"https://www.wearedevelopers.com/world-congress\">www.wearedevelopers.com/world-con&hellip;</a></p>\n",
 				"content_text": "If you wanna get in touch with other software developers and see what new approaches evolve, I can recommend the WeAreDevelopers World Congress, happening in two months 17th-19th of July in Berlin, Germany. See you there. #webdevelopment #SaaS [www.wearedevelopers.com/world-con...](https://www.wearedevelopers.com/world-congress)\n",
-				"date_published": "2024-05-18T09:47:52+02:00",
+				"date_published": "2024-05-18T08:47:52+01:00",
 				"url": "https://ceelian.net/2024/05/18/if-you-wanna.html"
 			},
 			{
@@ -163,7 +171,7 @@
 				
 				"content_html": "<p>Twitter/X crosspost from micro.blog - try #3</p>\n",
 				"content_text": "Twitter/X crosspost from micro.blog - try #3\n",
-				"date_published": "2024-05-14T22:34:59+02:00",
+				"date_published": "2024-05-14T21:34:59+01:00",
 				"url": "https://ceelian.net/2024/05/14/twitterx-crosspost-from.html"
 			},
 			{
@@ -171,7 +179,7 @@
 				
 				"content_html": "<p>Well, Twitter/X crossposting with IFTTT based on <a href=\"https://help.micro.blog/t/cross-posting-with-the-ifttt-service/86\">help.micro.blog/t/cross-p&hellip;</a> not working yet. Try #2</p>\n",
 				"content_text": "Well, Twitter/X crossposting with IFTTT based on [help.micro.blog/t/cross-p...](https://help.micro.blog/t/cross-posting-with-the-ifttt-service/86) not working yet. Try #2\n",
-				"date_published": "2024-05-14T22:29:25+02:00",
+				"date_published": "2024-05-14T21:29:25+01:00",
 				"url": "https://ceelian.net/2024/05/14/well-twitterx-crossposting.html"
 			},
 			{
@@ -179,7 +187,7 @@
 				
 				"content_html": "<p>If everything went right this message was automatically posted to Bluesky, Mastodon, Twitter/X and LinkedIn. Thx to micro.blog and a little IFTTT magic. As this service fragmentation is not going away we have to deal with it somehow.</p>\n",
 				"content_text": "If everything went right this message was automatically posted to Bluesky, Mastodon, Twitter/X and LinkedIn. Thx to micro.blog and a little IFTTT magic. As this service fragmentation is not going away we have to deal with it somehow.\n",
-				"date_published": "2024-05-14T22:12:04+02:00",
+				"date_published": "2024-05-14T21:12:04+01:00",
 				"url": "https://ceelian.net/2024/05/14/if-everything-went.html"
 			},
 			{
@@ -187,7 +195,7 @@
 				
 				"content_html": "<p>Finally, hello world from my own account :-) Thx <a href=\"https://micro.blog/help\">@help</a> for resolving the issue so fast. Looking forward to my new home for distributing to my social media channels.</p>\n",
 				"content_text": "Finally, hello world from my own account :-) Thx [@help](https://micro.blog/help) for resolving the issue so fast. Looking forward to my new home for distributing to my social media channels.\n",
-				"date_published": "2024-05-11T09:45:16+02:00",
+				"date_published": "2024-05-11T08:45:16+01:00",
 				"url": "https://ceelian.net/2024/05/11/finally-hello-world.html"
 			}
 	]
