@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://ceelian.micro.blog/2025/07/26/a-rare-but-important-perspective.html",
+				
+				"content_html": "<p>A rare but important perspective on how to build websites vs web apps: <a href=\"https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/\">www.jonoalderson.com/conjectur&hellip;</a></p>\n",
+				"content_text": "A rare but important perspective on how to build websites vs web apps: [www.jonoalderson.com/conjectur...](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)\n",
+				"date_published": "2025-07-26T04:54:25+01:00",
+				"url": "https://ceelian.net/2025/07/26/a-rare-but-important-perspective.html"
+			},
+			{
 				"id": "http://ceelian.micro.blog/2025/07/24/sometimes-it-feels-like-you.html",
 				
 				"content_html": "<p>Sometimes it feels like you have to decide if you want to use AWS or you want to learn it, but you can&rsquo;t do both in one lifetime. 🤯 #AWS #Cloud #neverstoplearning</p>\n",
