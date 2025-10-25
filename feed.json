@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://ceelian.micro.blog/2025/10/25/101534.html",
+				
+				"content_html": "<p>Bye bye #Minio <a href=\"https://github.com/minio/minio/issues/21647#issuecomment-3418675115\">github.com/minio/min&hellip;</a></p>\n",
+				"content_text": "Bye bye #Minio [github.com/minio/min...](https://github.com/minio/minio/issues/21647#issuecomment-3418675115)\n",
+				"date_published": "2025-10-25T10:15:34+01:00",
+				"url": "https://ceelian.net/2025/10/25/101534.html"
+			},
+			{
 				"id": "http://ceelian.micro.blog/2025/10/20/i-am-always-amused-when.html",
 				
 				"content_html": "<p>I am always amused when news are talking about a &ldquo;global AWS outage&rdquo; when 1 of 38 regions worldwide is facing issues. #aws #outage</p>\n",
